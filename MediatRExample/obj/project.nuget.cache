@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "YV/L4UEa2Z2MxZ/yKlDyMQy2fgU7PFCsu4wWfEUn4H5eSD7v4xVaspJ/z+gdwYZ3AJRyVMrZKQ9AKz2EI8WVYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KVEAI58\\Source\\Repos\\MediatRExample\\MediatRExample\\MediatRExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KVEAI58\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\KVEAI58\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\KVEAI58\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\KVEAI58\\.nuget\\packages\\mediatr.extensions.autofac.dependencyinjection\\8.0.1\\mediatr.extensions.autofac.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\KVEAI58\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
